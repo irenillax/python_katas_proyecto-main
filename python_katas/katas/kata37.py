@@ -38,7 +38,7 @@ def procesar_texto(texto, opcion, original="", nueva=""):
 
     else:
         return "Opción no válida"
-
+    
 
 if __name__ == "__main__":
     texto = "hola mundo hola adios mundo"
